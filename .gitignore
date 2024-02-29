@@ -1,0 +1,17 @@
+*.kicad_prl
+*.xml
+*-backups
+fp-info-cache
+Gerbers
+RK09K1110-20.STEP
+
+*.aux
+*.log
+*.out
+*.toc
+
+*.o
+*.d
+*.elf
+*.hex
+
